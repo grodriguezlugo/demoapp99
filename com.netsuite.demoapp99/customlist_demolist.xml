@@ -1,0 +1,36 @@
+<customlist scriptid="customlist_demolist">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Demolist</name>
+  <customvalues>
+    <customvalue scriptid="value_1_mstrwlf_564">
+      <isinactive>F</isinactive>
+      <value>Red</value>
+    </customvalue>
+    <customvalue scriptid="value_2_mstrwlf_792">
+      <isinactive>F</isinactive>
+      <value>White</value>
+    </customvalue>
+    <customvalue scriptid="value_3_mstrwlf_632">
+      <isinactive>F</isinactive>
+      <value>Blue</value>
+    </customvalue>
+    <customvalue scriptid="value_101_mstrwlf_637">
+      <isinactive>F</isinactive>
+      <value>Brown</value>
+    </customvalue>
+    <customvalue scriptid="value_102_yellow">
+      <isinactive>F</isinactive>
+      <value>Yellow</value>
+    </customvalue>
+    <customvalue scriptid="value_201_mstrwlf_697">
+      <isinactive>F</isinactive>
+      <value>Pink</value>
+    </customvalue>
+    <customvalue scriptid="value_301_mstrwlf_789">
+      <isinactive>F</isinactive>
+      <value>new color88888</value>
+    </customvalue>
+  </customvalues>
+</customlist>
