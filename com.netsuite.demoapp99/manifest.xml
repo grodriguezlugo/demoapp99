@@ -4,4 +4,15 @@
   <appname>demosme</appname>
   <appversion>1.0.0</appversion>
   <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="true">WORKFLOW</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">DOCUMENTS</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="false">CRM</feature>
+    </features>
+  </dependencies>
 </manifest>
