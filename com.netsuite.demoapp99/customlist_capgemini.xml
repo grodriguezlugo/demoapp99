@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_capgemini">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Capgemni</name>
+  <customvalues>
+    <customvalue scriptid="val_50704_mstrwlf_489">
+      <isinactive>F</isinactive>
+      <value>one</value>
+    </customvalue>
+    <customvalue scriptid="val_50705_mstrwlf_779">
+      <isinactive>F</isinactive>
+      <value>two</value>
+    </customvalue>
+  </customvalues>
+</customlist>
